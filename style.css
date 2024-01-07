@@ -1,0 +1,35 @@
+.top-container {
+    background-color: rgb(131, 205, 56);
+    height: 720px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 300%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.top-container img {
+    border-radius: 30px;
+}
+
+h1 {
+    color: rgb(133, 26, 26);
+}
+
+.top-container p {
+    color: rgb(180, 17, 17);
+    font-weight: 400;
+}
+
+.carousel-indicators {
+    height: 600px;
+}
+
+.midlle-container img {
+    border-radius: 50%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bottom-container {
+    background-color: greenyellow;
+}
